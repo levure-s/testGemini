@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887014748855",
+    "project_id": "testgemini-1a481",
+    "storage_bucket": "testgemini-1a481.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887014748855:android:62191c92f0ad12991c5332",
+        "android_client_info": {
+          "package_name": "com.testgemini.test_gemini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGF1Ng3U2lzNEI8tzGmKnhN8aYa34ZBVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
